@@ -1,4 +1,4 @@
-# free_nvidia_stock_REAL
+# Foresight
 
 A research project on attempting to find the best agents or combination of agents to be predict the best action for any given stock in the market. 
 
@@ -14,7 +14,7 @@ Ex: Rag agent, web search agent, anaylsis agent
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/TommyClemenzaChen/free_nvidia_stock_REAL.git
+git clone https://github.com/TommyClemenzaChen/Foresight.git
 cd free_nvidia_stock_REAL
 ```
 
