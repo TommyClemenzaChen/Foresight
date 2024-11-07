@@ -37,3 +37,7 @@ pip install -r requirements.txt
 TBD
 
 
+## Authors
+
+- [@Tommy](https://www.github.com/TommyClemenzaChen) tchen175@ucsc.edu
+
